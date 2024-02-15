@@ -17,4 +17,7 @@ TODO
 
 ## Projects
 
-TODO
+- [ ] TODO: Fork poplog for pull request to fix Ubuntu build issues on 22.04
+- [ ] TODO: Add a Mac port of the poplog system.  Minimally, this just needs the console app.
+- [ ] TOOD: Add a new Graphics UI based on BGFX / IMGUI / SDL
+- [ ] TODO: CUDA support?
