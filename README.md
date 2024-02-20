@@ -47,3 +47,4 @@ TODO
 - [ ] TODO: Add a Mac port of the poplog system.  Minimally, this just needs the console app.
 - [ ] TOOD: Add a new Graphics UI based on BGFX / IMGUI / SDL
 - [ ] TODO: CUDA support?
+- [ ] TODO: Fork GOSPL and add proper releases, add tags, branches
