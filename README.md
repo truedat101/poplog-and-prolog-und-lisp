@@ -30,6 +30,14 @@ TODO
 
 - [ ] TODO: checkin and link locally from Eliza Source: http://hakank.org/poplog/poprulebase_toy_eliza.p
 
+## Eliza, many implementations
+
+- A great prolog rewrite with a walk through of the implementaiton: https://www.like-a-boss.net/2018/08/24/eliza-a-tutorial-reconstruction-in-prolog.html
+
+## Other Prolog Resources
+
+- TODO
+
 ## Projects
 
 - [ ] TODO: Fork poplog for pull request to fix Ubuntu build issues on 22.04
