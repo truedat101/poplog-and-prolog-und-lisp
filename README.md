@@ -15,6 +15,8 @@ I have no association with the project.  I once studied prolog in college along 
 
 It isn't industrial grade, and doesn't currently stack up well against other prologs in terms of modern features.  And yet ... just a quick tinkering around with this, it is extremely flexible.   This needs a second look.
 
+The other thing is because of all of the broken links, and personal websites hostings stuff, I am concerned about the curation of this content.  The personal websites are the first to go if they are hosted on a personal domain, and the person happens to pass on or just decides to stop maintaining the site.  Wayback is fantastic for recovery, but better to keep it hosted publicly on a site that isn't taking down content, like Github.
+
 ## Start Here
 
 - https://github.com/GetPoplog/Seed
