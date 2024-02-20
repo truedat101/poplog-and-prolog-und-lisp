@@ -37,6 +37,15 @@ TODO
 
 - A great prolog rewrite with a walk through of the implementaiton: https://www.like-a-boss.net/2018/08/24/eliza-a-tutorial-reconstruction-in-prolog.html
 
+## ML Links
+
+ML seems to be the less popular of the languages written and used in the poplog family of supported languages.  
+
+- http://www.mlton.org/Poplog
+- http://www.cs.bham.ac.uk/research/poplog/doc/pmlhelp/mlinpop
+- https://web.archive.org/web/20060101233357/http://www.cs.bham.ac.uk/research/poplog/doc/pmlhelp/mlinpop
+
+
 ## Other Prolog Resources
 
 - TODO
