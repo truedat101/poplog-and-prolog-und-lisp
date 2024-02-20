@@ -31,6 +31,7 @@ TODO
 ## Preserved Source
 
 - [ ] TODO: checkin and link locally from Eliza Source: http://hakank.org/poplog/poprulebase_toy_eliza.p
+- [ ] GOSPL: https://github.com/sfkleach/GOSPL (TODO: Verify if this is the latest ... it is about 12 years old)
 
 ## Eliza, many implementations
 
