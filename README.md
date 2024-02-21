@@ -42,7 +42,12 @@ TODO
 ## Eliza, many implementations
 
 - A great prolog rewrite with a walk through of the implementaiton: https://www.like-a-boss.net/2018/08/24/eliza-a-tutorial-reconstruction-in-prolog.html
+- A #lisp forum chatbot https://github.com/stassats/lisp-bots/blob/master/minion/eliza-rules.lisp
+- 
+## Prolog Links
 
+- An english language grammer written in Prolog on CL : https://github.com/crossbowerbt/prolog-talk
+- 
 ## ML Links
 
 ML seems to be the less popular of the languages written and used in the poplog family of supported languages.  
