@@ -24,6 +24,12 @@ The other thing is because of all of the broken links, and personal websites hos
 - Number two problem is exiting VED: https://www.cs.bham.ac.uk/research/projects/poplog/junk/linux15.6/current-poplog/pop/help/exit
 - Or here ...
 
+## Major pop11 features
+
+### Code Planting
+
+- The tutorial https://github.com/GetPoplog/Seed/wiki/Code-Planting-Tutorial-Part-1
+
 ## Books
 
 TODO
