@@ -46,6 +46,7 @@ TODO
 - 
 ## Prolog Links
 
+- Prolog comparisons https://en.wikipedia.org/wiki/Comparison_of_Prolog_implementations
 - An english language grammer written in Prolog on CL : https://github.com/crossbowerbt/prolog-talk
 - 
 ## ML Links
