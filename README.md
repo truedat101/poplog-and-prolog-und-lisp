@@ -68,5 +68,5 @@ ML seems to be the less popular of the languages written and used in the poplog 
 - [ ] TODO: Add pop11 kernel support for use in Jupyter (see similar efforts: https://github.com/Calysto/calysto_prolog?tab=readme-ov-file )
 - [ ] TODO: Add a Mac port of the poplog system.  Minimally, this just needs the console app.
 - [ ] TOOD: Add a new Graphics UI based on BGFX / IMGUI / SDL
-- [ ] TODO: CUDA support?
+- [ ] TODO: CUBlas/CUDA support?
 - [ ] TODO: Fork GOSPL and add proper releases, add tags, branches
