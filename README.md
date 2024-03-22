@@ -62,6 +62,11 @@ ML seems to be the less popular of the languages written and used in the poplog 
 
 - TODO
 
+## Reading Lists
+
+- Old AI reading list: https://www.cs.bham.ac.uk/research/projects/poplog/contrib/pop11/ct_book/doc/reading.list
+
+
 ## Projects
 
 - [ ] TODO: Fork poplog for pull request to fix Ubuntu build issues on 22.04
